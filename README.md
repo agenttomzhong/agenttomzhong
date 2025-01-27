@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @agenttomzhong
 - 👀 I’m interested in diy projects
 - 🌱 I’m currently learning STM ,ESP8266 and so on
-- 📫My adress is zhongjingyao@hotmail.com
+- 📫My adress is jingyaochung@shisu.edu.cn
